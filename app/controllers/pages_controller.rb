@@ -4,4 +4,14 @@ class PagesController < ApplicationController
   
   def about
   end  
+  
+  def web_dev
+  end
+  
+  def seo
+  end
+    
+  def project
+  end
+    
 end
